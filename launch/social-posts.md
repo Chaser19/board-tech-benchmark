@@ -1,118 +1,160 @@
-# Launch-week post sequence: X/Twitter and LinkedIn
+# Launch-week post sequence: X and LinkedIn
 
-Seven days, one finding per day. X posts are under 280 characters each (counted with the link as 23 characters, which is how X counts any URL). LinkedIn posts run longer and lead with the figure. Replace `[LINK]` with the site URL and `[SUBSTACK]` with the Substack URL once they exist. All figures come from [fact-sheet.md](fact-sheet.md); read its guardrails before editing any post.
+Seven days, one finding a day. Every figure is from the Edition 1 draft (22 November 2026) and listed in [fact-sheet.md](fact-sheet.md). X posts are all under 280 characters, with a link counted as 23. LinkedIn posts go from your personal profile (and Ashis's, if he is willing to post or reshare). Attach the matching Press Ranger release image where one is named.
+
+Replace `[LINK]` with boardtechbenchmark.com (or the report page) and `[SUBSTACK]` with the Substack URL.
 
 **Week at a glance**
 
-| Day | Theme | Headline figure |
-|---|---|---|
-| 1 (launch) | The oversight cliff | 99.8% own tech risk, 9.9% own the innovation portfolio |
-| 2 | AI: contained, not won with | 27.4% vs 2.9%, roughly 9× |
-| 3 | The committee landscape | 45% of the Fortune 500 have a tech committee |
-| 4 | Where cyber actually goes | 65% of tech-committee companies still send cyber to Audit |
-| 5 | Why the numbers are a floor | Charters more than double the value score (0.46 vs 0.21) |
-| 6 | The method | 446 boards, 20 topics, every score tied to a quoted sentence |
-| 7 | Wrap and Substack | 94% of boards: risk ahead of value |
+| Day | Theme | Headline figure | Image |
+|---|---|---|---|
+| 1 (launch) | Who owns the upside? | 81.0% govern technology as a risk; 13.9% have a value mandate | 01 |
+| 2 | Absorbed, not assigned | 64.5% put technology under audit or risk; 551 the audit committee | 02 |
+| 3 | AI: a risk factor, not yet a board matter | 89.2% vs 47.9%; 2 of 890 boards have an AI committee | 03 |
+| 4 | Written in, without teeth | 77.7% of mandates record no consequence | none |
+| 5 | Where boards built something new | 69.9% vs 2.9% reach strategy | 04 |
+| 6 | What we did not find, and how we read | 0 of 319 tests; 93.9% agreement | none |
+| 7 | Four questions for your board, plus Substack | 81.0% / 13.9% recap | 05 or 06 |
 
-Suggested times: X at 8:30 AM ET and a reply-thread follow-up at 12:30 PM ET; LinkedIn at 8:00 AM ET Tuesday to Thursday for the strongest reach, so if launch falls on a Monday consider holding LinkedIn Day 1 to Tuesday.
+Suggested times: X at 8:30 AM ET with a follow-up reply at 12:30 PM ET; LinkedIn at 8:00 AM ET (1 PM UK). Tuesday to Thursday is strongest for LinkedIn, so if launch falls on a Monday, consider starting LinkedIn on Tuesday.
 
 ---
 
-## Day 1: Launch, the oversight cliff
+## Day 1: Launch. Who owns the upside?
 
-### X (thread, pin the first post)
+**Image:** 01-headline-risk-vs-value.png
+
+### X (thread; pin the first post)
 
 **1/**
-> Boards took ownership of technology as a hazard. Almost none took ownership of it as an opportunity.
+> Most boards still govern technology as a risk. Who owns the upside?
 >
-> 99.8% of large U.S. boards own tech risk in their filings. 9.9% own any part of their innovation portfolio.
+> We read the filings of every Fortune 1000 company.
 >
-> Introducing the Board Technology Oversight Benchmark 🧵
+> 81.0% of boards govern technology as a risk.
+> 13.9% have a mandate to create value with it.
+>
+> The Board Technology & Innovation Governance Benchmark 🧵
 
 **2/**
-> We read the 10-Ks, proxies and committee charters of 446 large-cap U.S. companies and scored 20 technology topics the same way every time.
+> The risk side has a complete form: a committee, an executive who reports to the board on cyber security and, since 2023, a regulatory deadline.
 >
-> Every score traces to a quoted sentence in a filing.
+> The value side is mostly blank. Fewer than 20 of the 1,000 boards can approve a technology plan or budget.
 
 **3/**
-> The gap isn't an average hiding a split. 94% of boards oversee technology risk more closely than technology value.
+> Each board is placed on a four-level scale. Levels 1 and 2 govern technology as a risk: 810 boards. Levels 3 and 4 give the board a written say in strategy, innovation or investment: 139 boards.
 >
-> On a 0–3 scale, risk oversight averages 0.85. Value creation averages 0.25.
+> Every score traces to a sentence in a filing.
 
 **4/**
-> Cyber is near-universal: 99.8% assign it to a board body, 75% with a named owner and a stated cadence.
+> One limit, stated up front: this measures what boards commit to in writing, not what happens in the boardroom. Every score is a floor.
 >
-> Innovation networks: 0%. New services: 0.2%. Venture investing: 3.1%.
-
-**5/**
-> A caveat we put up front: these are documented ownership scores, so every number is a floor. A board can govern well and not say so.
->
-> But a board that owns something has to say which body owns it.
->
-> Full findings and method: [LINK]
+> The research, by Ashis Bhattacharya and me: [LINK]
 
 ### LinkedIn
 
-> Regulation put cyber risk on the board agenda, and boards responded almost universally. But the reason technology matters to a company is mostly upside: what it lets the firm build, enter, automate and pre-empt.
+> Every board now has two jobs in technology: protecting the company, and making sure it uses technology well.
 >
-> So we asked a simple question: have boards taken ownership of that upside, or only of the downside?
+> The filings record the first in full and the second hardly at all.
 >
-> Today we're publishing the Board Technology Oversight Benchmark. We read the filings of 446 large-cap U.S. companies, covering 10-Ks, proxy statements and committee charters, and scored 20 technology topics across six domains. Every score traces back to a quoted sentence.
+> Today Ashis Bhattacharya and I are publishing the Board Technology & Innovation Governance Benchmark. We read the proxy statements, annual reports and committee charters of the 1,000 companies on Fortune's 2026 list, from 2011 to 2026, and placed every board on a four-level scale. Every score traces to a sentence in a filing.
 >
 > The headline:
 >
-> 📌 99.8% of boards own technology risk somewhere in their filings.
-> 📌 9.9% own any part of their innovation portfolio.
-> 📌 94% oversee technology risk more closely than technology value.
+> 📌 81.0% of Fortune 1000 boards govern technology as a risk (810 of the 1,000)
+> 📌 13.9% have a written mandate that reaches strategy, innovation or investment (139 of the 1,000)
+> 📌 Fewer than 20 can approve a technology plan or budget
 >
-> That last number matters most. It's a within-company comparison, so it isn't explained by some companies simply disclosing less.
+> Technology risk has a complete form: a committee, a reporting executive and a regulatory deadline. The same form for technology's potential is mostly blank.
 >
-> One honest caveat: this measures documented ownership, not the quality of oversight. Absence from a filing isn't proof of absence in the boardroom, so every figure is a floor. But a board that owns something has to say which body owns it, and most don't say it about value creation.
+> What this does not show: it measures disclosed commitments, not boardroom behaviour. A board can do more than its filings say, so every score is a floor.
 >
-> The findings, sector cuts and full method are here: [LINK]
+> One question for your own board: who owns technology's upside, and is it written down anywhere?
 >
-> Over the next week I'll share one finding a day. Tomorrow: AI.
+> Read the research: [LINK]
 >
-> #CorporateGovernance #BoardOfDirectors #Innovation
+> Over the next week I'll share one finding a day. Tomorrow: where technology oversight actually sits.
+>
+> #CorporateGovernance #BoardOfDirectors #Technology
 
 ---
 
-## Day 2: AI, contained rather than won with
+## Day 2: Absorbed, not assigned
+
+**Image:** 02-where-oversight-sits.png
 
 ### X
 
-> Boards are roughly 9× more likely to own AI as something to contain than as something to win with.
+> Technology oversight went to the committees that already owned risk.
 >
-> 27.4% assign AI governance to a board body.
-> 2.9% own AI as a competitive advantage.
-> 1.3% own AI productivity.
+> 64.5% of Fortune 1000 boards put technology under an audit or risk committee: 645 of the 1,000, 551 of them the audit committee itself.
+>
+> 16.6% have a dedicated technology committee.
 >
 > [LINK]
 
 **Reply (12:30 PM):**
-> Across the whole AI domain, 29.1% of boards own any part of it at all.
+> The audit committee took on cyber, data and AI without changing its name or meeting more often.
 >
-> Only 2.7% show it being exercised: a stated cadence, a named owner, or a decision actually taken.
+> Absorbed, not assigned.
 
 ### LinkedIn
 
-_Note: the opening quote appears on the site's Findings tab without a named speaker. Confirm its source before posting, or drop the first two lines._
+> Absorbed, not assigned.
+>
+> When technology arrived on the board agenda, most boards handed it to the committee that already owned risk. Of the 1,000 companies on Fortune's 2026 list:
+>
+> → 64.5% put technology under an audit or risk committee (645 boards)
+> → 551 of those give it to the audit committee itself
+> → 16.6% have a dedicated technology committee (166 boards)
+> → 9.3% keep it at the full board
+>
+> The audit committee, the committee responsible for financial reporting, internal controls and the independent auditor, took on cyber, data and AI without changing its name or meeting more often.
+>
+> That isn't wrong in itself. Risk belongs somewhere, and the audit committee knows controls. But a committee built to look backwards at assurance is an unusual home for the question of what technology should help the company build.
+>
+> If technology sits with your audit committee, how much of its agenda does it get?
+>
+> [LINK]
+>
+> #AuditCommittee #CorporateGovernance #CyberSecurity
 
-> "The competitive risk of falling behind is just as real as the operational risk that they introduce."
+---
+
+## Day 3: AI, a risk factor and not yet a board matter
+
+**Image:** 03-ai-risk-vs-business.png
+
+### X
+
+> Annual reports name AI as a risk far more often than as part of the business.
 >
-> That's the case for treating AI as a strategic question, not only a compliance one. The filings say boards aren't there yet.
+> 89.2% of 2025 annual reports name AI in the risk factors.
+> 47.9% describe it in the business section.
 >
-> From the Board Technology Oversight Benchmark (446 large-cap U.S. boards):
+> 2 of 890 boards have a committee of their own for AI.
 >
-> → 27.4% have assigned AI governance to a board body (the hazard framing)
-> → 2.9% own AI as a source of competitive advantage
-> → 1.3% own AI productivity
+> [LINK]
+
+**Reply:**
+> AI has reached the annual report. It has barely reached the board.
 >
-> A board in this sample is roughly 9× more likely to own AI as something to be contained than as something to be won with.
+> Nine companies run an AI committee at management level. Two boards have one.
+
+### LinkedIn
+
+> AI has reached the annual report. It has barely reached the board.
 >
-> Across the domain, 29.1% of boards own any part of AI at all, and 2.7% show that oversight being exercised through a stated cadence, a named owner or an actual decision.
+> From the 2025 annual reports of 962 Fortune 1000 companies:
 >
-> Question for directors and GCs: if your board was asked tomorrow which committee owns AI as an opportunity, would your proxy have an answer?
+> 🔹 89.2% name AI as a risk (Item 1A, the risk factors)
+> 🔹 47.9% describe it in the business section (Item 1)
+>
+> And at board level, two of 890 boards have a committee or subcommittee of their own for AI. Nine companies run an AI committee at management level.
+>
+> A company can say AI matters to its business without a board committee named for it, and many AI duties will sit inside existing mandates. But the gap between how often AI is described as a risk and how often it is placed with anyone on the board is wide.
+>
+> Where does AI sit in your board's mandates: as a risk to watch, or as something the board is asked to shape?
 >
 > [LINK]
 >
@@ -120,163 +162,148 @@ _Note: the opening quote appears on the site's Findings tab without a named spea
 
 ---
 
-## Day 3: The committee landscape
+## Day 4: Written in, without teeth
 
 ### X
 
-> 45% of the Fortune 500 now have a dedicated technology or innovation committee.
+> Cyber security is a duty in 99.7% of the 957 scored technology mandates. Strategy is a duty in 20.7%.
 >
-> And size doesn't predict it. Adoption ranges from 38% to 51% across rank bands, with no gradient from top to bottom.
+> And 77.7% record no consequence if a duty is not met.
+>
+> Fewer than 20 of the 1,000 boards can approve a technology plan or budget.
+
+**Reply:**
+> The language that recurs in charters is "review and discuss", not "approve".
+>
+> [LINK]
+
+### LinkedIn
+
+> Mandates without teeth.
+>
+> We scored 957 Fortune 1000 technology mandates: what the committee or board is written to do.
+>
+> • Cyber security is a duty in 99.7% of them
+> • Strategy is a duty in 20.7%
+> • 77.7% record no consequence if a technology oversight duty is not met
+> • Fewer than 20 of the 1,000 boards hold approval authority over a technology plan or budget
+>
+> The recurring verb is "review and discuss", not "approve".
+>
+> What this does not show: a missing consequence clause does not mean boards lack influence or that accountability is absent. It shows that the written commitments often leave the next step unclear.
+>
+> Does your technology mandate say what happens when a duty is not met?
+>
+> [LINK]
+>
+> #CorporateGovernance #CompanySecretary #BoardEffectiveness
+
+---
+
+## Day 5: Where boards built something new
+
+**Image:** 04-committee-reaches-strategy.png
+
+### X
+
+> Where there is a dedicated technology committee, the board's mandate reaches strategy 69.9% of the time.
+>
+> Where there isn't, 2.9%.
+>
+> 949 scored Fortune 1000 boards.
 >
 > [LINK]
 
 **Reply:**
-> What they're called matters. "Technology" (79) and "Science & Technology" (39) lead. 14 are "Cybersecurity" committees, 13 "Innovation".
+> Dedicated technology committees have more than tripled since 2011: 4.4% of boards then, 15.1% in 2025.
 >
-> A cyber committee and an innovation committee are not doing the same job.
+> Nearly a quarter of the 200 largest companies have one (46 of 200); about one in seven across the other 800.
 
 ### LinkedIn
 
-> Nearly half of the Fortune 500 (45%, or 208 of 458 companies scored) now has a board-level technology or innovation committee.
+> Structure enables ambition.
 >
-> What surprised us: committee formation isn't tracking company size. Adoption sits between 38% and 51% in every band of 100, from the Fortune 1–100 down to 401–500.
+> Where boards built something new for technology, the mandate changes. Across 949 scored Fortune 1000 boards:
 >
-> The names tell you something too:
-> • Technology: 79
-> • Science & Technology: 39
-> • Cybersecurity: 14
-> • Innovation: 13
-> • Innovation & Technology: 5
+> → with a dedicated technology committee, 69.9% have a written role in technology strategy
+> → without one, 2.9%
 >
-> A "Cybersecurity" committee and an "Innovation" committee may sit in the same column of a governance table, but they are not doing the same job. Tomorrow's post shows what most of these committees actually oversee, and it isn't cyber.
+> These committees have more than tripled since 2011, from 4.4% of boards to 15.1% in 2025 (16.6% on the 2026 count), led by the largest companies: nearly a quarter of the top 200 have one.
+>
+> One caution: this is an association, not a cause. A committee alone does not determine how a board approaches technology. But its charter is where the board decides which job it is taking on.
+>
+> If you formed a technology committee tomorrow, would it be to manage the risk or to find the value?
 >
 > [LINK]
 >
-> #CorporateGovernance #Fortune500
+> #BoardOfDirectors #TechnologyCommittee #CorporateGovernance
 
 ---
 
-## Day 4: Where cyber actually goes
+## Day 6: What we did not find, and how we read
 
 ### X
 
-> The SEC's cyber disclosure rule made board routing visible.
+> Does a technology committee change company performance?
 >
-> Of Fortune 500 companies that built a technology committee, 65% still send cybersecurity oversight to Audit. Only 21% route it to the tech committee.
+> We ran a pre-registered search: 319 tests across profitability, valuation, returns, growth and risk. None survived correction and replicated.
 >
-> [LINK]
+> Not established. That is not the same as "no value".
 
 **Reply:**
-> Two readings, and the data can't fully separate them: the tech committee is often a strategy body while risk stays with Audit, or the committee exists without the mandate following it.
-
-### LinkedIn
-
-> Since the SEC cybersecurity disclosure rule took effect, every filer has to name the board body overseeing cyber risk. That makes something observable that used to be invisible: where the mandate actually sits.
->
-> Among Fortune 500 companies with a dedicated technology committee:
->
-> 🔹 65% route cybersecurity oversight to the Audit committee
-> 🔹 21% route it to the technology committee
-> 🔹 the rest use the full board or another committee
->
-> This is the clearest evidence in our dataset that a technology committee is often a value or strategy body while risk oversight stays with Audit, or that the committee exists without the mandate following it.
->
-> Neither is necessarily wrong. But if you sit on a tech committee, it's worth knowing which of the two you are.
->
-> [LINK]
->
-> #Cybersecurity #AuditCommittee #BoardGovernance
-
----
-
-## Day 5: Why every number is a floor
-
-### X
-
-> The single biggest caveat in our benchmark, and why it points one way:
->
-> Where we found a committee charter, the mean value-creation score was 0.46. Without one: 0.21.
->
-> Charters carry the mandate language proxies summarise away. Only 17% were available.
-
-**Reply:**
-> So when we say 9.9% of boards own their innovation portfolio, read it as "at least". Absence from a filing is not absence of oversight.
->
-> Method and limits, stated up front: [LINK]
-
-### LinkedIn
-
-> Most research buries its limitations in an appendix. We put ours on the front page, because each one has a known direction and a known size.
->
-> The biggest: committee charters. Where we located and read a charter, a board's mean value-creation score more than doubled, from 0.21 to 0.46. Charters state what a committee actually does; proxies tend to summarise that away. We had charters for 75 of 446 companies (17%).
->
-> That means every value-creation figure in the benchmark is a floor, not an estimate.
->
-> It also means there's an easy action here for any company that does govern innovation seriously: publish the charter. It's the most direct way to make that oversight visible to investors.
->
-> The five things that would change our numbers, and which way: [LINK]
->
-> #CorporateGovernance #Transparency #InvestorRelations
-
----
-
-## Day 6: The method
-
-### X
-
-> How the benchmark works:
->
-> • 446 large-cap U.S. boards
-> • 6 domains, 20 topics
-> • scored 0–3: absent, mentioned, assigned to a board body, exercised
-> • every score tied to a quoted sentence and a filing URL
+> How the benchmark was built: 13,194 proxy statements, plus annual reports and charters, read with LLM assistance. Every score traces to a quoted sentence. An author re-read 165 boards by hand: 93.9% agreement.
 >
 > [LINK]
 
 ### LinkedIn
 
-> A few people have asked how the Board Technology Oversight Benchmark was built, so here's the method in brief.
+> The finding we went looking for, and didn't get.
 >
-> The unit of measurement is documented board ownership. Not the quality of oversight, and not the company's technology performance. We score only what a reader of the public record can verify.
+> Several published pieces attach a performance premium to technology committees. We tested it properly: a pre-registered search of 319 tests across profitability, valuation, returns, growth and risk.
 >
-> • Sources: Item 1C of the 10-K, the DEF 14A proxy, and committee charters where available
-> • Framework: 6 domains, 20 topics. Two domains are risk oversight (technology risk, AI risk); four are value creation (innovation portfolio, emerging technologies, corporate venture and ecosystem, digital transformation)
-> • Scale: 0 absent, 1 mentioned, 2 assigned to a named board body, 3 exercised (a cadence and named owner for risk, an actual board decision for value)
-> • Sample: 468 companies read, 22 excluded for extraction failures, which we disclose rather than average in
+> None survived correction and replicated. Profitability after a committee forms runs about 0.9 points below sector peers, and the interval includes no change. That is not evidence that committees have no value. It means the case for them is a governance case, not a measured return.
 >
-> What we haven't done yet: a blind re-code for inter-rater reliability is designed and outstanding. Until then, the shape of the distribution is the claim, not any individual score.
+> How we read the filings:
+> • 13,194 proxy statements, plus annual reports and committee charters, for the 1,000 companies on Fortune's 2026 list
+> • LLM-assisted, with every score traced to a quoted sentence
+> • 165 boards re-read by hand by an author, 93.9% agreement
+> • Aggregates only: no company is named next to a score
 >
-> [LINK]
+> The method, the limits and which way each one pushes the numbers are in the report: [LINK]
 >
 > #Research #CorporateGovernance
 
 ---
 
-## Day 7: Wrap and Substack launch
+## Day 7: Four questions for your board, and the newsletter
+
+**Image:** 05-oversight-and-four-levels.png or 06-two-responsibilities.png
 
 ### X
 
-> One week, one finding a day. The short version:
+> A week of findings in one line: 81.0% of Fortune 1000 boards govern technology as a risk; 13.9% have a mandate to create value with it.
 >
-> 94% of large U.S. boards oversee technology risk more closely than technology value. 3 of 445 reach the top maturity level.
->
-> We'll keep tracking it. Subscribe: [SUBSTACK]
+> We'll track how that changes each quarter. Join the update: [SUBSTACK]
 
 ### LinkedIn
 
-> A week ago we published the Board Technology Oversight Benchmark. Thank you to everyone who read, shared and pushed back.
+> A week ago Ashis Bhattacharya and I published the Board Technology & Innovation Governance Benchmark. Thank you to everyone who read, shared and pushed back.
 >
-> The short version, if you missed it:
+> The short version:
 >
-> 1️⃣ 99.8% of boards own technology risk; 9.9% own any part of the innovation portfolio
-> 2️⃣ Boards are about 9× more likely to own AI as a hazard than as a competitive advantage
-> 3️⃣ 45% of the Fortune 500 have a tech committee, and size doesn't predict it
-> 4️⃣ 65% of those still send cyber oversight to Audit
-> 5️⃣ Every value-creation number is a floor; charters more than double it
+> 1️⃣ 81.0% of Fortune 1000 boards govern technology as a risk; 13.9% have a value-creating mandate
+> 2️⃣ 64.5% put technology under an audit or risk committee
+> 3️⃣ 89.2% of annual reports name AI as a risk; 2 of 890 boards have an AI committee
+> 4️⃣ 77.7% of mandates record no consequence if a duty is not met
+> 5️⃣ Where a dedicated committee exists, the mandate reaches strategy 69.9% of the time; where none does, 2.9%
 >
-> Overall, 94% of boards oversee technology risk more closely than technology value, and just 3 of 445 reach the top level of our maturity scale.
+> Four questions for your own board:
+> • Who owns technology's upside, and is it written down anywhere?
+> • If technology sits with your audit committee, how much of its agenda does it get?
+> • Does your technology mandate say what happens when a duty is not met?
+> • Who briefs the board on what to build, not only on what to protect?
 >
-> This isn't a one-off. We're starting a newsletter to track how board technology oversight changes as the next proxy season lands, with deeper dives by sector and topic. Subscribe here: [SUBSTACK]
+> We'll refresh the benchmark each quarter and send a short note on what changed. Join the quarterly update: [SUBSTACK]
 >
 > #CorporateGovernance #BoardOfDirectors
 
@@ -284,8 +311,7 @@ _Note: the opening quote appears on the site's Findings tab without a named spea
 
 ## Reusable replies
 
-For common responses during launch week.
-
-- **"Can you share my company's score?"** Thanks for asking. The company-level data is an internal audit tool and hasn't completed human review, so we're not publishing individual scores. The aggregate findings and method are all on the site.
-- **"Doesn't a low score just mean poor disclosure?"** Partly, and we say so. It's a measure of documented ownership, so every score is a floor. But the 94% figure compares each board with itself, so it isn't explained by a company disclosing less overall.
-- **"Do tech committees make boards better?"** Standing-committee boards score higher, but they also publish charters far more often, so part of that is document access. We don't treat it as causal yet.
+- **"Can you share my company's score?"** We don't publish company placements. A read of one board, verified by hand with the evidence behind it, goes only to that company, on request. Happy to talk: [LINK]
+- **"Disclosure isn't behaviour."** Agreed, and we say so up front. Absence of evidence in a filing is not evidence of absence of oversight, so every score is a floor.
+- **"Do technology committees improve performance?"** Not established. 319 pre-registered tests found no effect that survived correction and replicated. That leaves the question open; it doesn't show committees have no value.
+- **"EY and MIT already count this."** The published counts agree with us on direction. This adds the full Fortune 1000, the written mandate, whether any consequence follows, and whether approval authority exists.

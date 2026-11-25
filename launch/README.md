@@ -1,35 +1,39 @@
 # Launch kit
 
-Copy for the Board Technology Oversight Benchmark launch.
+Social and newsletter copy for the public opening of the **Board Technology & Innovation Governance Benchmark**. Every figure comes from the research summary's board edition (Edition 1 draft, 22 November 2026) and the Press Ranger release images (24 November 2026), and follows the project's brand voice guide.
 
 | File | What's in it |
 |---|---|
-| [fact-sheet.md](fact-sheet.md) | The 12 approved headline figures, their source fields, and the guardrails every post must follow |
-| [social-posts.md](social-posts.md) | Seven-day X/Twitter and LinkedIn sequence, one finding per day, plus reusable replies |
-| [x-profile.md](x-profile.md) | Handle ideas, display name, bio options, header and avatar notes, pinned post |
-| [substack.md](substack.md) | Publication name, tagline, about page, welcome email, first post outline |
+| [fact-sheet.md](fact-sheet.md) | 14 approved figures with their exact bases, their grades (measured, not established, preliminary) and the guardrails |
+| [social-posts.md](social-posts.md) | Seven-day X and LinkedIn sequence, one finding a day, matched to release images 01 to 06, plus reusable replies |
+| [x-profile.md](x-profile.md) | Handles, display name, bios, avatar and header notes, pinned post |
+| [substack.md](substack.md) | Name, tagline, About page, welcome email, first post outline |
 
-Placeholders to fill before posting: `[LINK]` (site URL), `[SUBSTACK]` and `[FIRST POST LINK]`, and `[SURNAME]` plus a background line in the Substack about page.
+Placeholders to fill: `[LINK]` (boardtechbenchmark.com or the report page), `[SUBSTACK]`, `[FIRST POST LINK]`.
+
+## Before posting
+
+- [ ] Confirm the figures haven't moved in the final edition (the fact sheet is built on the 22 November draft)
+- [ ] Ashis signs off on the copy (the launch plan's go/no-go is with him)
+- [ ] Release images 01 to 06 exported at full size from the Press Ranger folder
 
 ## Account setup steps (Chase)
 
-### X/Twitter
-1. Sign up at x.com with a dedicated email for the project (not a personal inbox), and turn on two-factor authentication.
-2. Try handles in the order listed in `x-profile.md`; take the first available.
-3. Set the display name, bio, website and location from `x-profile.md`.
-4. Upload the avatar and header (1500×500).
-5. Optional: switch to a Professional account (category: Research or Education) for post analytics.
-6. Post the Day 1 thread and pin the first post.
-7. Follow 30–50 governance accounts (proxy advisers, governance centres, board-focused journalists) before launch so the account isn't empty.
+### X
+1. Sign up at x.com with a project email, not a personal inbox, and turn on two-factor authentication.
+2. Take the first available handle from `x-profile.md`.
+3. Set the display name, bio and website; upload the avatar and a 1500×500 header.
+4. Optional: switch to a Professional account (category Research) for analytics.
+5. Follow 30 to 50 governance accounts before launch so the account isn't empty.
+6. Post the Day 1 thread with image 01 and pin it.
 
 ### Substack
-1. Sign up at substack.com and create a publication, using the same email as X if convenient.
-2. Set the name, subdomain and tagline from `substack.md`.
-3. Paste the about page into Settings → About, and the welcome email into Settings → Emails → Welcome email.
-4. Upload the same avatar as X, and link the X account under Settings → Social.
-5. Draft the first post from the outline, export the three charts from the site, and schedule it for Day 7 of the launch week.
-6. Add the Substack URL to the X bio website field after the first post goes live.
+1. Create the publication at substack.com with the name, subdomain and tagline from `substack.md`.
+2. Paste the About page (Settings, About) and the welcome email (Settings, Emails).
+3. Link the X account and upload the same avatar.
+4. Draft the first post from the outline and schedule it for Day 7.
+5. Add the Substack link to the site's quarterly update sign-up, and to the X profile once the first post is live.
 
 ### LinkedIn
-1. Post from Chase's personal profile in launch week; personal posts reach further than a new company page.
-2. Optional: create a LinkedIn page for the benchmark later, once there's a steady posting rhythm.
+1. Post from your personal profile; ask Ashis to reshare or post the Day 1 piece from his.
+2. A company page can wait until there is a steady rhythm.
